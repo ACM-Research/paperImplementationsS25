@@ -1,4 +1,4 @@
-# paperImplementationsS25
+paperImplementationsS25
 Preparing for the upcoming semester!
 
 # Exoplanet Detection Using Neural Networks
