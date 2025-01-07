@@ -1,4 +1,4 @@
-**Multimodal Astronomical Data Integration**  
+### **Multimodal Astronomical Data Integration**  
 This project is an implementation inspired by the research paper *"The Multimodal Universe: Enabling Large-Scale Machine Learning with 100 TB of Astronomical Scientific Data"* by the Multimodal Universe Collaboration. The focus is on processing diverse astronomical datasets and developing a mechanism to align and integrate data from multiple modalities, such as images, spectra, and time series.
 
 ---
@@ -49,7 +49,7 @@ Data integration amplifies the scientific value of astronomical surveys by enabl
 
 ---
 
-### **Future Opportunities**  
+### **Future Opportunities** 
 This initial implementation provides a strong foundation for future research and development. Potential next steps include:  
 - Expanding the implementation to larger, real-world datasets.  
 - Applying machine learning models to analyze the integrated data.  
@@ -57,6 +57,6 @@ This initial implementation provides a strong foundation for future research and
 
 ---
 
-**Conclusion**  
+### **Conclusion**  
 This project successfully translated theoretical concepts from the paper into practical steps for preprocessing and aligning multimodal astronomical datasets. The skills and knowledge gained will be instrumental in conducting research with large-scale space data.  
 ---
