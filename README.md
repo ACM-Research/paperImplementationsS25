@@ -55,8 +55,11 @@ This initial implementation provides a strong foundation for future research and
 - Applying machine learning models to analyze the integrated data.  
 - Refining the cross-matching algorithm for higher accuracy.
 
+
 ---
 
 ### **Conclusion**  
 This project successfully translated theoretical concepts from the paper into practical steps for preprocessing and aligning multimodal astronomical datasets. The skills and knowledge gained will be instrumental in conducting research with large-scale space data.  
+
+
 ---
