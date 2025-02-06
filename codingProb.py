@@ -32,7 +32,7 @@ def count_occurrences(lst):
             occurrences[item] += 1
         else:
             occurrences[item] = 1
-    return occurrences.keys()  # Error here
+    return occurrences.keys()  # Error here (conversion)
 
 print(count_occurrences(["apple", "banana", "apple", "orange"]))
 
@@ -43,7 +43,7 @@ def find_median(numbers):
     n = len(numbers)
     mid = n // 2
     if n % 2 == 0:
-        return (numbers[mid] + numbers[mid-1] / 2)  # Error here
+        return (numbers[mid] + numbers[mid-1] / 2)  # Error here, fix the syntax)
     return numbers[mid]
 
 print(find_median([3, 1, 4, 2, 5]))
@@ -60,11 +60,10 @@ print(reverse_string("hello"))
 
 #2
 
-def capitalize_words(sentence):
-    words = sentence.split()
-    return words.capitalize()  # Error here
+def to_lowercase(sentence):
+    return sentence.lowercase()  # Error here
 
-print(capitalize_words("hello world"))
+print(to_lowercase("Hello WORLD!"))
 
 
 #3
